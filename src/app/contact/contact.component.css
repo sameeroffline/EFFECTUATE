@@ -1,0 +1,84 @@
+.ng-valid[required],
+.ng-valid.required {
+  border-left: 5px solid #42A948;
+  /* green */
+}
+
+.ng-invalid:not(form) {
+  border-left: 5px solid #a94442;
+  /* red */
+}
+
+
+.container {
+  background-color: rgb(234, 234, 234);
+  width: 20%;
+  margin-left: 35%;
+  margin-top: 50px;
+  border: 2px solid white;
+
+
+}
+
+h4 {
+  text-align: center;
+  font-family: 'Times New Roman', Times, serif;
+}
+
+.col-xs-3 {
+  margin-left: 35%;
+  width: 30%;
+  height: 100%;
+}
+
+.col-xs-9 {
+  margin-left: 35%;
+  width: 30%;
+
+}
+
+body {
+  background-image: url("https://static-cse.canva.com/blob/572626/1.magebyRodionKutsaevviaUnsplash.jpg");
+  bottom: 0;
+  top: 0;
+  left: 0;
+  right: 0;
+  position: absolute;
+  background-repeat: no-repeat;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.last{
+    background-color: #2f6c4e;
+    height:50px;
+    color: white;
+}
+
+ul li{
+    list-style: none;
+    color:rgb(75, 75, 75);
+    font-size: 17px;
+    margin-top: 10px;
+}
+
+ul li:nth-child(1){
+    line-height:5;
+    list-style: none;
+}
+
+ 
